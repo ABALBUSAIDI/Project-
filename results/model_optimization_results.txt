@@ -1,0 +1,2 @@
+Best KMeans Model: KMeans(n_clusters=6, random_state=42) 
+Best Silhouette Score: 0.20989394735401407
